@@ -231,6 +231,8 @@
                                     Clientes
                                 </a>
                             </li>
+
+                            <hr>
                             <li class="nav-item">
                                 <a class="nav-link d-flex align-items-center gap-2" href="#">
                                     <svg class="bi">
@@ -247,6 +249,14 @@
                                     Fornecedores
                                 </a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link d-flex align-items-center gap-2" href="#">
+                                <i class="bi bi-person-badge-fill"></i>
+                                    Funcionarios
+                                </a>
+
+
+                            <hr>
                         </ul>
 
                         <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
